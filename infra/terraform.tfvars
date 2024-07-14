@@ -14,4 +14,4 @@ ec2_user_data_install_apache = ""
 
 domain_name = "cloudsmithlabs.com"
 
-ec2_ami_id = "ami-026e3067cdba1273f"
+ec2_ami_id = "ami-04a81a99f5ec58529"
