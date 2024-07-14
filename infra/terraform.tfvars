@@ -2,7 +2,7 @@ bucket_name = "dev-proj-1-remote-state-bucket"
 name        = "environment"
 environment = "dev-1"
 
-vpc_cidr             = "10.0.0.0/16"
+vpc_cidr             = "11.0.0.0/16"
 vpc_name             = "dev-proj-us-west-vpc-1"
 cidr_public_subnet   = ["11.0.5.0/24", "11.0.6.0/24"]
 cidr_private_subnet  = ["11.0.7.0/24", "11.0.8.0/24"]
